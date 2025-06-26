@@ -33,6 +33,7 @@ This repository contains manually tested and documented bugs found in the [Prebo
 Namita Rajesh Sahariya
 _Fresher QA Tester with a passion for bug hunting and learning security testing._
 
-📬 Contact
+
 E-mail:- sahariyanamita143@gmail.com 
+
 linkedin:-https://linkedin.com/in/namita-sahariya
